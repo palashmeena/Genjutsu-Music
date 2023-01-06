@@ -1,0 +1,18 @@
+﻿  PluginProcessor.cpp
+  PluginEditor.cpp
+D:\C++\C++ Audio Visualizer\Genjutsu\Source\PluginProcessor.h(157,26): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file ..\..\Source\PluginEditor.cpp)
+D:\C++\C++ Audio Visualizer\Genjutsu\Source\PluginProcessor.h(157,26): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file ..\..\Source\PluginProcessor.cpp)
+D:\C++\C++ Audio Visualizer\Genjutsu\Source\PluginEditor.h(24,1): error C2760: syntax error: '}' was unexpected here; expected 'expression' (compiling source file ..\..\Source\PluginProcessor.cpp)
+D:\C++\C++ Audio Visualizer\Genjutsu\Source\PluginEditor.h(24,1): error C2760: syntax error: '}' was unexpected here; expected 'expression' (compiling source file ..\..\Source\PluginEditor.cpp)
+D:\C++\C++ Audio Visualizer\Genjutsu\Source\PluginEditor.h(24,1): error C2098: unexpected token after data member 'customColor' (compiling source file ..\..\Source\PluginProcessor.cpp)
+D:\C++\C++ Audio Visualizer\Genjutsu\Source\PluginEditor.h(24,1): error C2098: unexpected token after data member 'customColor' (compiling source file ..\..\Source\PluginEditor.cpp)
+D:\C++\C++ Audio Visualizer\Genjutsu\Source\PluginEditor.h(24,1): error C2059: syntax error: '}' (compiling source file ..\..\Source\PluginProcessor.cpp)
+D:\C++\C++ Audio Visualizer\Genjutsu\Source\PluginEditor.h(24,1): error C2059: syntax error: '}' (compiling source file ..\..\Source\PluginEditor.cpp)
+D:\C++\C++ Audio Visualizer\Genjutsu\Source\PluginEditor.h(24,1): error C2143: syntax error: missing ';' before '}' (compiling source file ..\..\Source\PluginEditor.cpp)
+D:\C++\C++ Audio Visualizer\Genjutsu\Source\PluginEditor.h(24,1): error C2143: syntax error: missing ';' before '}' (compiling source file ..\..\Source\PluginProcessor.cpp)
+D:\C++\C++ Audio Visualizer\Genjutsu\Source\PluginEditor.h(21,15): error C2065: 'customColor': undeclared identifier (compiling source file ..\..\Source\PluginEditor.cpp)
+D:\C++\C++ Audio Visualizer\Genjutsu\Source\PluginEditor.h(21,15): error C2065: 'customColor': undeclared identifier (compiling source file ..\..\Source\PluginProcessor.cpp)
+D:\C++\C++ Audio Visualizer\Genjutsu\Source\PluginEditor.cpp(15,5): error C2065: 'customColor': undeclared identifier
+D:\C++\C++ Audio Visualizer\Genjutsu\Source\PluginEditor.cpp(15,73): warning C4244: 'argument': conversion from 'int' to 'juce::uint8', possible loss of data
+D:\C++\C++ Audio Visualizer\Genjutsu\Source\PluginEditor.cpp(15,57): warning C4244: 'argument': conversion from 'int' to 'juce::uint8', possible loss of data
+D:\C++\C++ Audio Visualizer\Genjutsu\Source\PluginEditor.cpp(15,41): warning C4244: 'argument': conversion from 'int' to 'juce::uint8', possible loss of data
